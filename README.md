@@ -5,7 +5,7 @@
 <p align="left">OsuConnect is a project start for create a new social network for osu players shared you experiences and beatmaps</p>
 
 <h4 align="left">Create  you theme:</h4>
-<p align="left">You can make you theme and shared for community:</p>
+<p align="left">You can make you theme and shared for community</p>
 
 ###
 
