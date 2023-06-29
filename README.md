@@ -1,4 +1,4 @@
-<h1 align="left">OsuConnect</h1>
+<h1 align="left">OsuConnect - Project in construct</h1>
 
 ###
 
